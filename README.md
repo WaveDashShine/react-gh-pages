@@ -1,6 +1,14 @@
 ## Deploy to GitHub pages
 `npm run deploy`
+- will deploy to `gh-pages` branch
+- source code will be on this branch
+- generated with https://github.com/gitname/react-gh-pages 
 ___
+<details>
+<summary>
+Project was created with create-react-app but is using react-gh-pages to generate web pages, standard react commands below
+</summary>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
