@@ -3,6 +3,7 @@
 - will deploy to `gh-pages` branch
 - source code will be on this branch
 - generated with https://github.com/gitname/react-gh-pages 
+- url for deployed website will be @ https://wavedashshine.github.io/react-gh-pages/
 ___
 <details>
 <summary>
